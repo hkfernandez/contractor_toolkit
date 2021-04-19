@@ -1,0 +1,18 @@
+{
+  "name": "baric-server",
+  "version": "1.0.0",
+  "description": "buillding an application just refrenceing the documentation",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4",
+    "y": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "author": "Hector Fernandez",
+  "license": "ISC"
+}
